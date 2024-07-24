@@ -1,2 +1,19 @@
-# tech.cmac
-CMAC Roofing has taken the dive into revolutionizing how construction sees technology
+<img src="https://i.imgur.com/mwN2zlk.png" alt="Hexo logo" width="300" height="300" align="right" />
+
+# stargazerproject.xyz
+
+> A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org).
+
+[Website](https://stargazerproject.xyz) |
+
+## Features
+
+- conspiracy theory with no judgement
+- programming hacks
+- Pen Testing
+
+## Quick Start
+
+goto the website
+
+<a href="https://imgur.com/diqJSoU"><img src="https://i.imgur.com/diqJSoU.png" title="source: imgur.com" /></a>
